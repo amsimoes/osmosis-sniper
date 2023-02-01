@@ -1,0 +1,29 @@
+{
+  "name": "osmosis-sniper",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amsimoes/osmosis-sniper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amsimoes/osmosis-sniper/issues"
+  },
+  "homepage": "https://github.com/amsimoes/osmosis-sniper#readme",
+  "dependencies": {
+    "@cosmology/core": "^1.16.0",
+    "chain-registry": "^1.6.1",
+    "cosmjs-utils": "^0.1.0",
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21",
+    "long": "^5.2.1",
+    "osmojs": "^13.0.0-rc.7-i-alpha"
+  }
+}
